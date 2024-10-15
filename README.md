@@ -10,7 +10,7 @@ We build a recurrent neural network (RNN) to translate English text to Kinyarwan
 
 ## Dataset Creation and Preprocessing
 # Dataset Source:
-A custom dataset of English-Kinyarwanda sentence pairs was used.
+A custom dataset of English-Kinyarwanda sentence pairs was used from Digital Umuganda.
 # Preprocessing Steps:
 Text cleaning: Removal of special characters and conversion to lowercase.
 Tokenization: Sentences are split into individual words using TensorFlow's Tokenizer.
